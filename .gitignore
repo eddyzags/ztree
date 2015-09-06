@@ -1,0 +1,7 @@
+*~
+*.out
+*#
+*.org
+*.gch
+*.cc
+Makefile
